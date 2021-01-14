@@ -2,6 +2,8 @@
 
 ![image](spacegamesceenshot.png)
 
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
+
 HOW TO PLAY:
 Planets will have gratvitational effect on the space-craft. 
 Use up arrow on the keyboard to activate the back thrusters on the spacecraft.
