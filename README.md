@@ -9,5 +9,5 @@ To add angular momentum to the spacecraft, use the right and left arrows.
 Back arrow is not used since back thrusters can only push the spacecraft in the universe we used to live in.
 
 HOW IT IS MADE.
-Window api is used for rendering.
-All gui elements and other visuals are created using Paint and loaded into the engine in windows bitmap file format.
+This game is written on top of a custom 2D rendering engine that I developed using pure C++ without using any library.
+I used the window api to build the rendering engine.
