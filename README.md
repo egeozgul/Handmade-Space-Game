@@ -1,5 +1,7 @@
 "# HandmadeSpaceGame" 
 
+This is a 2D space game developed using C++ from scratch without using any library. See the source code for more details. I f you want to run this game on PC, it only runs on Windows OS.
+
 ![image](spacegamesceenshot.png)
 
 HOW TO PLAY:
